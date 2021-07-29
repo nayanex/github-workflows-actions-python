@@ -22,6 +22,7 @@ def healthcheck():
     )
     return response
 
+
 # https://stackoverflow.com/questions/17256602/assertionerror-view-function-mapping-is-overwriting-an-existing-endpoint-functi
 @app.route("/metrics", endpoint="metrics")
 @logging_message(app)
@@ -41,7 +42,7 @@ def metrics():
 
 
 if __name__ == "__main__":
-    
+
     app.run(
         host=settings.SERVER_HOST, port=settings.SERVER_PORT, debug=settings.FLASK_DEBUG
     )
