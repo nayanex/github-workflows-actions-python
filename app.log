@@ -1,0 +1,42 @@
+INFO:app:{2021-07-05 22:54:22.379090}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:22.381571}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+INFO:app:{2021-07-05 22:54:27.183410}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:27.184844}, {metrics} endpoint request was reached successfully
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:app:{2021-07-05 22:54:27.632359}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:27.634530}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2021 22:54:30] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/NayanaHolandadeAbreu/Udacity/nd064_course_1/exercises/python-helloworld/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:{2021-07-05 22:54:39.552050}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:39.554055}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+INFO:werkzeug: * Detected change in '/mnt/c/Users/NayanaHolandadeAbreu/Udacity/nd064_course_1/exercises/python-helloworld/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:{2021-07-05 22:54:41.095780}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:41.097465}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+INFO:app:{2021-07-05 22:54:44.012692}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:44.045332}, {metrics} endpoint request was reached successfully
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:app:{2021-07-05 22:54:44.474243}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:54:44.475379}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2021 22:54:46] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Jul/2021 22:54:50] "GET /healthcheck HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/mnt/c/Users/NayanaHolandadeAbreu/Udacity/nd064_course_1/exercises/python-helloworld/custom_logging.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:{2021-07-05 22:55:16.041073}, {healthcheck} endpoint request was reached successfully
+INFO:app:{2021-07-05 22:55:16.042279}, {metrics} endpoint request was reached successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-126-095
+----------------------
